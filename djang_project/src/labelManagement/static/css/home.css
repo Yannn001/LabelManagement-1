@@ -1,0 +1,35 @@
+.home-info-container {
+    display: flex;
+}
+
+.home-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.home-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.home-button {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    margin: 100px;
+    /* color: yellow; */
+}
+
+.home-text {
+    text-align: center;
+    font-size: 25px;
+    line-height: 40px;
+    /* color: yellow; */
+}
+
+.home-left-component {
+    margin-left: 40px;
+}
