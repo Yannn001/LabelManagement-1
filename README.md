@@ -1,7 +1,7 @@
 # LabelManagement-1
 
 
-Virtual enviroment dependencies:/n
+Virtual enviroment dependencies:\
 asgiref==3.5.2/n
 Django==4.0.6/n
 django-rest-framework==0.1.0/n
