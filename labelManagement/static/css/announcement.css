@@ -1,0 +1,17 @@
+.announcement-container {
+  height: 150px;
+  background: linear-gradient(to right, #e6b264 0%, #e9c186 100%);
+  color: #2a2727;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  line-height: 10px;
+}
+
+.announcement-text {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 10px;
+  /* color: yellow; */
+}
